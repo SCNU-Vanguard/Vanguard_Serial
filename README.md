@@ -1,2 +1,2 @@
 # Vanguard_Serial
-芝士通讯代码
+这是通讯代码
